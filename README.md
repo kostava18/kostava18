@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Konstantin Vasilev
-- 👀 I’m interested in data analysis and data science
-- 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on relevant projects on part-time or voulonteering basis
-- 📫 How to reach me: k.vasilev.public@gmail.com
+**Hi, I’m Konstantin Vasilev** 👋
 
-<!---
-kostava18/kostava18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantin-vasilev-5b603598)
+
+**About me** 👀
+
+Qualified budgeting and finance professional. Well experienced in team leading and cross-functional cooperation. 
+
+On the way to build a career in IT as data analyst. Currently looking for job opportunities on a part-time or volunteering basis in order to develop my new skills and gain relevant professional experience.
+
+**My repositories** 💼
+
+[Yandex.Praktikum Data Analyst Projects](https://github.com/kostava18/yandex-praktikum-projects)
